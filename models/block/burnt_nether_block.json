@@ -1,0 +1,6 @@
+{
+   "parent": "block/cube_all",
+   "textures": {
+       "all": "fm:blocks/burnt_nether_block"
+   }
+}
