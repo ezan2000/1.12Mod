@@ -1,0 +1,28 @@
+{
+    "type": "minecraft:crafting_shaped",
+    
+    "pattern":
+    [
+        "rbr",
+        "rrr",
+        "rrr"
+    ],
+    
+    "key":
+    {
+        "b":
+        {
+            "item": "fm:burnt_nether"
+        },
+        "r":
+        {
+            "item": "fm:ruby"
+        }
+    },
+    
+    "result":
+    {
+        "item": "fm:ruby_chest",
+        "count": 1
+    }
+}

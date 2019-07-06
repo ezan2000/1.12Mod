@@ -1,0 +1,28 @@
+{
+    "type": "minecraft:crafting_shaped",
+    
+    "pattern":
+    [
+        "rrr",
+        "rbr",
+        "r r"
+    ],
+    
+    "key":
+    {
+        "b":
+        {
+            "item": "fm:burnt_nether"
+        },
+        "r":
+        {
+            "item": "fm:ruby"
+        }
+    },
+    
+    "result":
+    {
+        "item": "fm:ruby_leggings",
+        "count": 1
+    }
+}

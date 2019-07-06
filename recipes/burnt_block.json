@@ -1,0 +1,24 @@
+{
+    "type": "minecraft:crafting_shaped",
+    
+    "pattern":
+    [
+        "bbb",
+        "bbb",
+        "bbb"
+    ],
+    
+    "key":
+    {
+        "b":
+        {
+            "item": "fm:burnt_nether"
+        }
+    },
+    
+    "result":
+    {
+        "item": "fm:burnt_nether_block",
+        "count": 1
+    }
+}

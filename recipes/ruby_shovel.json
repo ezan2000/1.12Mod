@@ -1,0 +1,28 @@
+{
+    "type": "minecraft:crafting_shaped",
+    
+    "pattern":
+    [
+        " r ",
+        " b ",
+        " b "
+    ],
+    
+    "key":
+    {
+        "b":
+        {
+            "item": "fm:burnt_nether"
+        },
+        "r":
+        {
+            "item": "fm:ruby"
+        }
+    },
+    
+    "result":
+    {
+        "item": "fm:ruby_shovel",
+        "count": 1
+    }
+}
