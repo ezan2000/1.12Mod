@@ -1,0 +1,44 @@
+//Items
+item.ruby.name=Ruby
+item.sapphire.name=Sapphire
+item.obsidian_ingot.name=Obsidian Ingot
+item.poop.name=Poop
+item.money.name=Money
+item.burnt_nether.name=Burnt Nether Brick 
+//Blocks
+tile.ruby_block.name=Block of Ruby
+tile.sapphire_block.name=Block of Sapphire 
+tile.poop_block.name=Pile of Shit  
+tile.burnt_nether_block.name=Block of Burnt Nether Brick 
+tile.ruby_ore.name=Ruby Ore
+//Tools 
+item.ruby_sword.name=Ruby Sword
+item.ruby_pick.name=Ruby Pickaxe
+item.ruby_shovel.name=Ruby Shovel
+item.ruby_hoe.name=Ruby Hoe
+item.ruby_axe.name=Ruby Axe
+
+item.sapphire_sword.name=Sapphire Sword
+item.sapphire_pick.name=Sapphire Pickaxe
+item.sapphire_shovel.name=Sapphire Shovel
+item.sapphire_hoe.name=Sapphire Hoe
+item.sapphire.axe.name=Sapphire Axe
+
+item.emerald_sword.name=Emerald Sword
+item.emerald_shovel.name=Emerald Shovel
+item.emerald_hoe.name=Emerald Hoe
+item.emerald_axe.name=Emerald Axe
+item.paxel.name=Paxel  
+//Armor
+item.ruby_helmet.name=Ruby Helmet
+item.ruby_chest.name=Ruby Chestplate
+item.ruby_leggings.name=Ruby Leggings
+item.ruby_boots.name=Ruby Boots
+item.sapphire_helmet.name=Sapphire Helmet
+item.sapphire_chest.name=Sapphire Chestplate
+item.sapphire_leggings.name=Sapphire Leggings
+item.sapphire_boots.name=Sapphire Boots 
+item.emerald_helmet.name=Emerald Helmet
+item.emerald_chest.name=Emerald Chestplate
+item.emerald_leggings.name=Emerald Leggings
+item.emerald_boots.name=Emerald Boots 
